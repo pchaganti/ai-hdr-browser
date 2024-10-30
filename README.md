@@ -1,3 +1,5 @@
+**As of October 2024, this repository is no longer maintained.**
+
 # Nolita
 
 A web-enabled agentic framework by [High Dimensional Research](https://hdr.is). 
